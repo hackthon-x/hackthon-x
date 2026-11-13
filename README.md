@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Hackthon-X Red Team Hacker Banner" width="100%">
+</p>
+
 # 👋 Hey, I'm Hackthon-X!
 
 ### 💻 Web Developer | Creative Thinker | Lifelong Learner
