@@ -79,16 +79,16 @@ My GitHub is a collection of cybersecurity-related projects, experiments, and re
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacktho-x&show_icons=true&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacktho-x&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackthon-x&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackthon-x&layout=compact&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacktho-x&theme=radical&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackthon-x&theme=radical&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hacktho-x&theme=radical&no-frame=true&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hackthon-x&theme=radical&no-frame=true&margin-w=10" width="100%" />
 </p>
 
 ## ⚖️ Ethical Commitment
