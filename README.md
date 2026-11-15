@@ -1,63 +1,116 @@
 <p align="center">
   <img src="logo.png" alt="Hackthon-X Red Team Hacker Banner" width="100%">
 </p>
-
-# 👋 Hey, I'm Hackthon-X!
-
-### 💻 Web Developer | Creative Thinker | Lifelong Learner
-
-I’m passionate about building modern, responsive, and user-friendly web experiences. I love turning ideas into reality through code, exploring new technologies, and continuously improving my development skills.
-
----
-
-## 🚀 About Me
-
-- 💻 Passionate about Web Development
-- 🌱 Always learning and exploring new technologies
-- 🎯 Focused on writing clean and maintainable code
-- 🧠 Love solving problems and building creative projects
-- 🤝 Open to collaboration and exciting opportunities
-
----
-
-## 🛠️ What I'm Working On
-
-- Building and improving web development projects
-- Strengthening my programming fundamentals
-- Exploring modern development tools and workflows
-- Learning by creating real-world applications
-
----
-
-## 📊 GitHub Overview
+# 👾 hacktho-x | Red Team Operator
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackthon-x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackthon-x&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Offensive+Security+Enthusiast;Ethical+Hacker;Breaking+Systems+to+Build+Better+Defenses" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hackthon-x&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Focus-Red%20Team-ff0000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Approach-Offensive%20Security-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 My Developer Mindset
+## 🧑‍💻 About Me
 
-> "Great things are built one line of code at a time."
+I'm **hacktho-x**, a cybersecurity enthusiast focused on **Red Team Operations, Offensive Security, and Ethical Hacking**.
 
-I believe in continuous learning, consistency, creativity, and never stopping the journey of improvement.
+I enjoy understanding how systems work, identifying security weaknesses, and exploring attack techniques to help strengthen digital infrastructure.
 
----
+My interests revolve around simulating real-world adversarial scenarios, developing security tools, and continuously improving my technical skills.
 
-## 🤝 Let's Connect
+> "Think like an attacker. Act with permission. Defend like a professional."
+
+## 🎯 Areas of Interest
+
+- 🔴 Red Team Operations & Adversary Simulation
+- 🕵️ Penetration Testing & Vulnerability Assessment
+- 🌐 Web Application Security
+- 🖥️ Network & Infrastructure Security
+- ⚡ Active Directory Security
+- 🔍 OSINT & Reconnaissance
+- 🐚 Exploit Research & Development
+- 🛡️ Detection Evasion & Defensive Security Research
+- 🧪 Security Automation & Scripting
+
+## 🛠️ Technical Arsenal
+
+**Operating Systems**
+- Kali Linux
+- Parrot Security OS
+- Linux
+- Windows
+
+**Security Tools**
+- Burp Suite
+- Nmap
+- Metasploit
+- Wireshark
+- OWASP ZAP
+- Gobuster
+- ffuf
+- BloodHound
+
+**Programming & Scripting**
+- Python
+- Bash
+- PowerShell
+- JavaScript
+
+**Platforms & Labs**
+- Hack The Box
+- TryHackMe
+- OWASP
+
+## 📂 What You'll Find Here
+
+My GitHub is a collection of cybersecurity-related projects, experiments, and research, including:
+
+- 🔧 Custom security tools and automation scripts
+- 🔍 Reconnaissance and enumeration utilities
+- 🧪 Penetration testing methodologies
+- 📚 Technical documentation and security notes
+- 🛡️ Offensive and defensive security research
+- 💻 Programming projects related to cybersecurity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/hackthon-x">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hacktho-x&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacktho-x&layout=compact&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacktho-x&theme=radical&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hacktho-x&theme=radical&no-frame=true&margin-w=10" width="100%" />
+</p>
+
+## ⚖️ Ethical Commitment
+
+All security research, tools, and demonstrations shared here are intended for educational purposes and authorized security testing.
+
+I believe in responsible disclosure, ethical hacking, and using offensive security knowledge to improve cybersecurity.
+
+**Unauthorized access is not the objective. Understanding security is.**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACCESS-AUTHORIZED%20ONLY-00ff41?style=for-the-badge&logo=protonvpn&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>hacktho-x</b> | Red Team • Offensive Security • Cyber Research
+</p>
+
+<p align="center">
+  <i>Exploit knowledge. Strengthen security. Stay curious.</i>
+</p>
   ⭐ Thanks for visiting my profile! Keep coding and keep growing.
 </p>
